@@ -2,7 +2,9 @@
 
 Searching in Images is a simple Swift application that allows users to search for images by selecting a few images that are similar to a certain extent to the desired results.
 
-![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-5a40252c0459.gif)
+![Alt Text](https://media.giphy.com/media/L0e5gJHwaw9kHzwHNw/giphy.gif)
+
+
 
 ## Installation
 
