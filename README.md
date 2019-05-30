@@ -8,8 +8,8 @@ Searching in Images is a simple Swift application that allows users to search fo
 
 ## Installation
 
-Download the project and open it on Xcode.
+Download the project and open it with Xcode.
 
 ## Usage
 
-Build & Run the project on Xcode once open.
+Build & Run the project with Xcode once open.
